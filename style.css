@@ -1,0 +1,25 @@
+h1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 200;
+    font-size: 70px;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+}
+
+
+
+styledimg {
+    background-image: url(path);
+    background-repeat: no-repeat;
+    width: 10px;
+    height: 20px;
+    }
+
+div {
+    display: inline-block;
+    margin: 70px 300px;
+    padding: 50px;
+    justify-content: space-around;
+    }
