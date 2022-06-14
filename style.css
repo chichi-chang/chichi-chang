@@ -4,18 +4,7 @@ h1 {
     font-size: 70px;
 }
 
-p {
-    font-family: 'Lato', sans-serif;
-}
 
-
-
-styledimg {
-    background-image: url(path);
-    background-repeat: no-repeat;
-    width: 10px;
-    height: 20px;
-    }
 
 div {
     display: inline-block;
