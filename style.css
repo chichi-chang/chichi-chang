@@ -12,3 +12,10 @@ div {
     padding: 50px;
     justify-content: space-around;
     }
+    
+a:link {color: black; text-decoration: none;}
+/* visited link */
+a:visited {
+        color: black; text-decoration: none;}
+/* mouse over link */
+a:hover {color: grey; text-decoration: none;}
