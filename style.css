@@ -19,3 +19,6 @@ a:visited {
         color: black; text-decoration: none;}
 /* mouse over link */
 a:hover {color: grey; text-decoration: none;}
+
+.boxed{border: none ;
+width:280px}
